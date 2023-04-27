@@ -1,0 +1,7 @@
+name: "Rasa NLU"
+description: "Rasa NLU server"
+version: "0.0.1"
+slug: "rasa"
+init: false
+arch:
+  - amd64
